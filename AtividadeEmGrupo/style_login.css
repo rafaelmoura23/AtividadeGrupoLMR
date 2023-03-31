@@ -1,5 +1,5 @@
 body{
-    background-image: url(img/walpaper.jpg);
+    background-image: url(img/Wal2.jpg);
     margin: 0;
 }
 
@@ -96,6 +96,7 @@ body{
     text-align: center;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     margin-top: 285px;
+    color: white;
 }
 
 a{
