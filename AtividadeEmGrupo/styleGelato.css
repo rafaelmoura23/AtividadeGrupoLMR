@@ -1,5 +1,5 @@
 body{
-    background-image: url(img/cafe1.jpg);
+    background-color: black;
     font-family: sans-serif;
     margin: 0;
     color: #2f2d29;
@@ -89,7 +89,108 @@ body{
 }
 
 
+.parte1{
+    width: 80%;
+    margin-left: 10%;
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-around;
+}
 
+.parte1 .text{
+    float: right;
+    color: white;
+}
+
+.parte1 .text h1 {
+    display: flex;
+    justify-content: center;
+    font-size: 40px;
+    color: gold;
+}
+
+.parte1 .text p{
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+}
+
+.parte1 img{
+    border-radius: 5px;
+    width: 640px;
+    height: 427px;
+    border: 2px;
+    border-style:groove;
+    border-color: rgb(154, 145, 22);
+}
+
+
+.parte2{
+    width: 80%;
+    margin-left: 10%;
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.parte2 .text2{
+    float: right;
+    color: white;
+}
+
+.parte2 .text2 h1 {
+    display: flex;
+    justify-content: center;
+    font-size: 40px;
+    color: gold;
+}
+
+.parte2 .text2 p{
+    font-size: 30px;
+}
+
+.parte2 img{
+    border-radius: 5px;
+    width: 640px;
+    height: 427px;
+    border: 2px;
+    border-style:groove;
+    border-color: rgb(154, 145, 22);
+}
+
+
+.parte3{
+    width: 80%;
+    margin-left: 10%;
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.parte3 .text3{
+    float: right;
+    color: white;
+}
+
+.parte3 .text3 h1 {
+    display: flex;
+    justify-content: center;
+    font-size: 40px;
+    color: gold;
+}
+
+.parte3 .text3 p{
+    font-size: 30px;
+}
+
+.parte3 img{
+    border-radius: 5px;
+    width: 640px;
+    height: 480px;
+    border: 2px;
+    border-style:groove;
+    border-color: rgb(154, 145, 22);
+}
 
 
 
